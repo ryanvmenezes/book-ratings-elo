@@ -1,35 +1,17 @@
 suppressMessages(library(tidyverse))
 
 while (TRUE) {
-  books = suppressMessages(read_csv('leaderboard.csv'))
+  # todo: update script that
+  # 1. finds new books and seeds them with ratings = 0 and elo = 1200
+  # 2. updates shelves for all read books
   
-  # books
+  books = suppressMessages(read_csv('leaderboard.csv'))
   
   prev.results = read_rds('results.rds')
   
   books.by.shelf = books %>%
     select(bookid, title, shelves) %>% 
     separate_rows(shelves, sep = ', ')
-  
-  # prev.results %>% head(0) %>% write_rds('results.rds')
-  
-  # todo: incorporate new book from index and seed it
-  
-  # books = books %>%
-  #   mutate(
-  #     ratings = 0,
-  #     elo = 1200
-  #   )
-
-  # books %>% arrange(title) %>% write_csv('leaderboard.csv')
-  
-  # shelves = books %>%
-  #   select(shelves) %>%
-  #   separate_rows(shelves, sep = ', ') %>% 
-  #   count(shelves) %>% 
-  #   arrange(-n)
-  # 
-  # shelves
   
   no.shared.shelves = TRUE
   
@@ -38,10 +20,12 @@ while (TRUE) {
   
   book1
   
+  # find its complement
   book2 = book1 %>% 
     select(shelves) %>% 
     separate_rows(shelves, sep = ', ')
   
+  # take out non-fiction unless it's the only shelf for the book
   if (nrow(book2) > 1) {
     book2 = book2 %>% 
       filter(!str_detect(shelves, 'non-fiction'))
@@ -56,21 +40,6 @@ while (TRUE) {
   books
     
   matchup = books %>% filter(bookid %in% c(book1$bookid, book2$bookid))
-  
-  # do they share any shelves?
-  
-  # shared.shelves = inner_join(
-  #   matchup %>% head(1) %>% select(shelves) %>% separate_rows(shelves, sep = ', '),
-  #   matchup %>% tail(1) %>% select(shelves) %>% separate_rows(shelves, sep = ', '),
-  #   by = 'shelves'
-  # ) %>% 
-  #   filter(!str_detect(shelves, 'fiction'))
-  # 
-  # no.shared.shelves = !(nrow(shared.shelves) > 0)
-
-  # matchup
-  
-  # todo: make sure valid input is entered
   
   print(matchup %>% select(bookid, title, author))
   
@@ -110,8 +79,6 @@ while (TRUE) {
   result$new.elo[1] = r1 + 32*(result$win[1] - result$exp.prob[1])
   result$new.elo[2] = r1 + 32*(result$win[2] - result$exp.prob[2])
   
-  # result
-  
   books = books %>% 
     left_join(
       result %>% 
@@ -125,8 +92,6 @@ while (TRUE) {
     ) %>% 
     select(-matches('\\.old|\\.new')) %>% 
     arrange(-elo)
-  
-  # books
   
   books %>% write_csv('leaderboard.csv')
   
