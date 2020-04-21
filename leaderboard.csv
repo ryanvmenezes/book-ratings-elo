@@ -27,7 +27,7 @@ bookid,title,author,myrating,avgrating,dateread,shelves,ratings,elo
 5000024,"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,3,4.01,2020-01-15,"fiction, los-angeles",6,1294.698775131096
 20706662,No Land's Man,Aasif Mandvi,5,3.59,2015-01-10,"non-fiction, biographical",4,1294.4012411087854
 23453112,Modern Romance,"Aziz Ansari, Eric Klinenberg",4,3.82,2015-11-23,non-fiction,3,1292.3168770001632
-906,"Game of Shadows: Barry Bonds, BALCO, and the Steroids Scandal that Rocked Professional Sports","Mark Fainaru-Wada, Lance Williams",4,3.81,2016-08-21,"non-fiction, sports, bay-area",9,1292.0224526370966
+906,"Game of Shadows: Barry Bonds, BALCO, and the Steroids Scandal that Rocked Professional Sports","Mark Fainaru-Wada, Lance Williams",4,3.81,2016-08-21,"non-fiction, sports, bay-area, baseball",9,1292.0224526370966
 8032112,The Big Short: Inside the Doomsday Machine,Michael Lewis,4,4.29,2016-02-09,non-fiction,3,1291.981921595354
 28512671,"Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are","Seth Stephens-Davidowitz, Steven Pinker",5,3.91,2017-05-30,non-fiction,5,1290.2721357858431
 37766354,Astroball: The New Way to Win It All,Ben Reiter,4,4.27,2018-12-05,"non-fiction, sports, baseball",2,1288.2230551101368
@@ -67,3 +67,4 @@ bookid,title,author,myrating,avgrating,dateread,shelves,ratings,elo
 44000528,Range: Why Generalists Triumph in a Specialized World,David Epstein,3,4.18,2019-08-29,non-fiction,1,1192.912914178879
 20508,Kill the Messenger: How the CIA's Crack-Cocaine Controversy Destroyed Journalist Gary Webb,"Nick Schou, Charles Bowden",2,3.75,2019-03-04,non-fiction,2,1183.9661669788793
 52654714,Thinking Inside the Box: Adventures with Crosswords and the Puzzling People Who Can't Live Without Them,Adrienne Raphel,3,4.23,2020-04-16,non-fiction,1,1183.263693206478
+19635587,Dept. of Speculation,Jenny Offill,4,3.75,2020-04-21,fiction,0,1200
