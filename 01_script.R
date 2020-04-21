@@ -15,13 +15,14 @@ while (TRUE) {
     select(bookid, title, shelves) %>% 
     separate_rows(shelves, sep = ', ')
   
-  no.shared.shelves = TRUE
-  
   # pick a book that hasn't been rated much before
   book1 = books %>%
     sample_n(
       1,
-      weight = ((1 - (ratings / sum(ratings)))*10)^3
+      weight = case_when(
+        sum(ratings) == 0 ~ 1,
+        TRUE ~ ((1 - (ratings / sum(ratings)))*10)^3
+      )
     )
   
   book1
@@ -84,6 +85,8 @@ while (TRUE) {
   
   result$new.elo[1] = r1 + 32*(result$win[1] - result$exp.prob[1])
   result$new.elo[2] = r2 + 32*(result$win[2] - result$exp.prob[2])
+  
+  result
   
   books = books %>% 
     left_join(
