@@ -23,10 +23,6 @@ newbooks
 
 leaderboard = bind_rows(leaderboard, newbooks)
 
-leaderboard
-
-leaderboard %>% tail()
-
 leaderboard = leaderboard %>% left_join(
   goodreads %>% select(bookid = `Book Id`, shelves = Bookshelves),
   by = 'bookid'

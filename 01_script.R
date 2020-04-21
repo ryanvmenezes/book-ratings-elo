@@ -1,5 +1,7 @@
 suppressMessages(library(tidyverse))
 
+suppressMessages(source('00_reindex.R'))
+
 while (TRUE) {
   # todo: update script that
   # 1. finds new books and seeds them with ratings = 0 and elo = 1200
@@ -16,7 +18,11 @@ while (TRUE) {
   no.shared.shelves = TRUE
   
   # pick a book that hasn't been rated much before
-  book1 = books %>% sample_n(1, weight = 1 - (ratings / sum(ratings)))
+  book1 = books %>%
+    sample_n(
+      1,
+      weight = ((1 - (ratings / sum(ratings)))*10)^3
+    )
   
   book1
   
@@ -77,7 +83,7 @@ while (TRUE) {
   result$exp.prob[2] = 1 / (1 + 10^((r1 - r2) / 400))
   
   result$new.elo[1] = r1 + 32*(result$win[1] - result$exp.prob[1])
-  result$new.elo[2] = r1 + 32*(result$win[2] - result$exp.prob[2])
+  result$new.elo[2] = r2 + 32*(result$win[2] - result$exp.prob[2])
   
   books = books %>% 
     left_join(
