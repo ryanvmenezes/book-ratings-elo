@@ -3,10 +3,6 @@ suppressMessages(library(tidyverse))
 suppressMessages(source('00_reindex.R'))
 
 while (TRUE) {
-  # todo: update script that
-  # 1. finds new books and seeds them with ratings = 0 and elo = 1200
-  # 2. updates shelves for all read books
-  
   books = suppressMessages(read_csv('leaderboard.csv'))
   
   prev.results = read_rds('results.rds')

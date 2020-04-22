@@ -1,70 +1,70 @@
 bookid,title,author,myrating,avgrating,dateread,shelves,ratings,elo
-20706662,No Land's Man,Aasif Mandvi,5,3.59,2015-01-10,"non-fiction, biographical",1,1216
-38472277,Severance,Ling Ma,5,3.88,2019-11-17,fiction,1,1216
-24399756,Ghettoside: A True Story of Murder in America,Jill Leovy,5,4.1,2015-03-27,"non-fiction, los-angeles",1,1216
+75406,The Breaks of the Game,David Halberstam,5,4.18,2013-08-31,"non-fiction, sports, basketball",5,1271.7904418044163
+40203647,"Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed",Lori Gottlieb,5,4.38,2020-04-12,"non-fiction, biographical",5,1271.7417068872962
+6564436,Fever Pitch,Nick Hornby,4,3.74,2019-05-20,"non-fiction, sports, soccer, biographical",7,1270.371439750306
+38472277,Severance,Ling Ma,5,3.88,2019-11-17,fiction,4,1259.061506929911
+24399756,Ghettoside: A True Story of Murder in America,Jill Leovy,5,4.1,2015-03-27,"non-fiction, los-angeles",4,1258.3153208413376
+75815,A Well-Paid Slave: Curt Flood's Fight for Free Agency in Professional Sports,Brad Snyder,5,4.12,2016-09-04,"non-fiction, sports, american-history",4,1256.6950163577008
+50929727,The Hot Hand: The Mystery and Science of Streaks,Ben Cohen,4,3.89,2020-04-08,"non-fiction, sports, basketball",3,1246.528873171397
+43615778,Your House Will Pay,Steph Cha,5,4.12,2020-02-07,"fiction, los-angeles",3,1243.233768695731
+36247169,Educated,Tara Westover,5,4.47,2019-11-12,"non-fiction, biographical",2,1232
+96123,All the President's Men,"Carl Bernstein, Bob Woodward",4,4.19,2018-10-01,"non-fiction, american-history",2,1232
+39935873,Soccer in Sun and Shadow,"Eduardo Galeano, Mark Fried",5,4.18,2019-08-19,"non-fiction, sports, soccer",4,1231.3969114944618
+35131737,The Skies Belong to Us: Love and Terror in the Golden Age of Hijacking,Brendan I. Koerner,5,4.01,2018-12-01,"non-fiction, american-history",2,1231.263693206478
+75639,A Season on the Brink: A Year with Bob Knight and the Indiana Hoosiers,John Feinstein,5,4.12,2017-03-15,"non-fiction, sports, basketball",2,1230.6961108657174
+6265996,White Teeth,Zadie Smith,5,3.77,2019-12-29,fiction,3,1229.8577444108907
+22926604,Year of the Dunk: A Modest Defiance of Gravity,Asher Price,5,3.75,2015-05-23,"non-fiction, sports, basketball, biographical",4,1229.821649799591
+7748,Fear and Loathing on the Campaign Trail '72,Hunter S. Thompson,5,4.12,2013-08-01,"non-fiction, american-history",2,1229.133745263401
+18693884,How Not to Be Wrong: The Power of Mathematical Thinking,Jordan Ellenberg,4,3.96,2016-05-26,non-fiction,4,1228.3630841160966
+906,"Game of Shadows: Barry Bonds, BALCO, and the Steroids Scandal that Rocked Professional Sports","Mark Fainaru-Wada, Lance Williams",4,3.81,2016-08-21,"non-fiction, sports, bay-area, baseball",2,1227.7400316740377
+30334134,The Undoing Project: A Friendship That Changed Our Minds,Michael Lewis,4,3.99,2017-02-27,non-fiction,6,1227.348588712617
+41161346,"LeBron, Inc.: The Making of a Billion-Dollar Athlete",Brian Windhorst,4,3.81,2019-04-15,"non-fiction, sports, basketball",4,1223.980840050268
+28007903,"American Heiress: The Wild Saga of the Kidnapping, Crimes and Trial of Patty Hearst",Jeffrey Toobin,5,3.88,2017-04-17,"non-fiction, american-history",7,1220.212423876028
+12262741,Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,5,4,2018-01-31,"non-fiction, biographical",5,1216.4866326730012
+25035100,The Sellout,Paul Beatty,5,3.77,2020-03-29,"fiction, los-angeles",4,1216.4728840522591
+45025308,She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement,"Jodi Kantor, Megan Twohey",4,4.41,2019-10-01,non-fiction,1,1216
+280412,The Run of His Life : The People v. O.J. Simpson,Jeffrey Toobin,5,4.22,2016-04-12,"non-fiction, los-angeles, american-history",1,1216
+36692478,There There,Tommy Orange,5,3.98,2019-04-29,"fiction, bay-area",1,1216
+36687335,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",Katherine Boo,5,3.98,2019-05-27,non-fiction,1,1215.9676502352856
+46136224,Uncanny Valley,Anna Wiener,3,3.77,2020-02-16,"non-fiction, bay-area",2,1215.8724741111962
+1202,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,"Steven D. Levitt, Stephen J. Dubner",5,3.97,2015-06-28,non-fiction,1,1215.263693206478
+53011908,"Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators",Ronan Farrow,5,4.51,2019-10-29,non-fiction,1,1215.263693206478
+8470954,Less Than Zero,Bret Easton Ellis,4,3.58,2020-04-18,"fiction, los-angeles",3,1213.287162680249
+22318476,"Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding, Its Apocalyptic Weather, Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis",Sam Anderson,5,4.38,2018-12-19,"non-fiction, sports, basketball, american-history",2,1202.1721796717984
 16171221,The Sports Gene: Inside the Science of Extraordinary Athletic Performance,David Epstein,5,4.19,2013-09-11,"non-fiction, sports",0,1200
-36692478,There There,Tommy Orange,5,3.98,2019-04-29,"fiction, bay-area",0,1200
-22318476,"Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding, Its Apocalyptic Weather, Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis",Sam Anderson,5,4.38,2018-12-19,"non-fiction, sports, basketball, american-history",0,1200
-40203647,"Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed",Lori Gottlieb,5,4.38,2020-04-12,"non-fiction, biographical",0,1200
-35131737,The Skies Belong to Us: Love and Terror in the Golden Age of Hijacking,Brendan I. Koerner,5,4.01,2018-12-01,"non-fiction, american-history",0,1200
-6564436,Fever Pitch,Nick Hornby,4,3.74,2019-05-20,"non-fiction, sports, soccer, biographical",0,1200
-36247169,Educated,Tara Westover,5,4.47,2019-11-12,"non-fiction, biographical",0,1200
-879746,"Amateur City (Kate Delafield, #1)",Katherine V. Forrest,3,3.75,2020-03-07,"fiction, los-angeles",0,1200
-39935873,Soccer in Sun and Shadow,"Eduardo Galeano, Mark Fried",5,4.18,2019-08-19,"non-fiction, sports, soccer",0,1200
-43811457,"The National Team: The Inside Story of the Women Who Dreamed Big, Defied the Odds, and Changed Soccer",Caitlin Murray,4,4.52,2019-06-04,"non-fiction, sports, soccer",0,1200
-18693884,How Not to Be Wrong: The Power of Mathematical Thinking,Jordan Ellenberg,4,3.96,2016-05-26,non-fiction,0,1200
-11569862,"Kasher in the Rye: The True Tale of a White Boy from Oakland Who Became a Drug Addict, Criminal, Mental Patient, and Then Turned 16",Moshe Kasher,5,3.91,2016-02-29,"non-fiction, bay-area, biographical",0,1200
-75815,A Well-Paid Slave: Curt Flood's Fight for Free Agency in Professional Sports,Brad Snyder,5,4.12,2016-09-04,"non-fiction, sports, american-history",0,1200
-21412175,The Best Team Money Can Buy,Molly Knight,2,3.98,2015-07-23,"non-fiction, los-angeles, sports, baseball",0,1200
-12262741,Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,5,4,2018-01-31,"non-fiction, biographical",0,1200
-39783597,"Soccernomics: Why England Loses; Why Germany, Spain, and France Win; and Why One Day Japan, Iraq, and the United States Will Become Kings of the World's Most Popular Sport","Simon Kuper, Stefan Szymanski",4,3.93,2020-03-19,"non-fiction, sports, soccer",0,1200
-96123,All the President's Men,"Carl Bernstein, Bob Woodward",4,4.19,2018-10-01,"non-fiction, american-history",0,1200
-906,"Game of Shadows: Barry Bonds, BALCO, and the Steroids Scandal that Rocked Professional Sports","Mark Fainaru-Wada, Lance Williams",4,3.81,2016-08-21,"non-fiction, sports, bay-area, baseball",0,1200
-7748,Fear and Loathing on the Campaign Trail '72,Hunter S. Thompson,5,4.12,2013-08-01,"non-fiction, american-history",0,1200
-41161346,"LeBron, Inc.: The Making of a Billion-Dollar Athlete",Brian Windhorst,4,3.81,2019-04-15,"non-fiction, sports, basketball",0,1200
-22926604,Year of the Dunk: A Modest Defiance of Gravity,Asher Price,5,3.75,2015-05-23,"non-fiction, sports, basketball, biographical",0,1200
-38331257,Things That Make White People Uncomfortable,"Michael Bennett, Dave Zirin",4,4.2,2018-11-28,"non-fiction, biographical",0,1200
-21284468,"The Monopolists: Obsession, Fury, and the Scandal Behind the World's Favorite Board Game",Mary Pilon,4,3.67,2019-02-13,non-fiction,0,1200
-75639,A Season on the Brink: A Year with Bob Knight and the Indiana Hoosiers,John Feinstein,5,4.12,2017-03-15,"non-fiction, sports, basketball",0,1200
-37822468,Big Game: The NFL in Dangerous Times,Mark Leibovich,3,3.64,2018-11-10,"non-fiction, sports",0,1200
-53011908,"Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators",Ronan Farrow,5,4.51,2019-10-29,non-fiction,0,1200
-50929727,The Hot Hand: The Mystery and Science of Streaks,Ben Cohen,4,3.89,2020-04-08,"non-fiction, sports, basketball",0,1200
-28007903,"American Heiress: The Wild Saga of the Kidnapping, Crimes and Trial of Patty Hearst",Jeffrey Toobin,5,3.88,2017-04-17,"non-fiction, american-history",0,1200
-8470954,Less Than Zero,Bret Easton Ellis,4,3.58,2020-04-18,"fiction, los-angeles",0,1200
 36373561,Red Card: How the U.S. Blew the Whistle on the World's Biggest Sports Scandal,Ken Bensinger,5,4.13,2018-05-31,"non-fiction, sports, soccer",0,1200
-75406,The Breaks of the Game,David Halberstam,5,4.18,2013-08-31,"non-fiction, sports, basketball",0,1200
-280412,The Run of His Life : The People v. O.J. Simpson,Jeffrey Toobin,5,4.22,2016-04-12,"non-fiction, los-angeles, american-history",0,1200
-40225612,"The Club: How the English Premier League Became the Wildest, Richest, Most Disruptive Force in Sports","Joshua Robinson, Jonathan Clegg",4,4.33,2018-12-24,"non-fiction, sports, soccer",0,1200
-280411,Too Close to Call: The Thirty-Six-Day Battle to Decide the 2000 Election,Jeffrey Toobin,5,3.95,2018-10-15,"non-fiction, american-history",0,1200
-42035620,Good to Go: What the Athlete in All of Us Can Learn from the Strange Science of Recovery,Christie Aschwanden,4,4.11,2020-03-23,"non-fiction, sports",0,1200
-19643530,"Inner City Blues (Charlotte Justice, #1)",Paula L. Woods,4,3.6,2020-03-13,"fiction, los-angeles",0,1200
-37938327,University of Nike: How Corporate Cash Bought American Higher Education,Joshua Hunt,3,3.82,2019-01-15,non-fiction,0,1200
-45029227,Football Hackers: The Science and Art of a Data Revolution,Christoph Biermann,3,4.33,2019-10-24,"non-fiction, sports, soccer",0,1200
-39507318,The Library Book,Susan Orlean,5,3.93,2018-12-31,"non-fiction, los-angeles",0,1200
-22749723,Who Gets What — and Why: The New Economics of Matchmaking and Market Design,Alvin E. Roth,2,3.86,2019-07-30,non-fiction,0,1200
 23453112,Modern Romance,"Aziz Ansari, Eric Klinenberg",4,3.82,2015-11-23,non-fiction,0,1200
-25035100,The Sellout,Paul Beatty,5,3.77,2020-03-29,"fiction, los-angeles",0,1200
-43615778,Your House Will Pay,Steph Cha,5,4.12,2020-02-07,"fiction, los-angeles",0,1200
-6265996,White Teeth,Zadie Smith,5,3.77,2019-12-29,fiction,0,1200
-37766354,Astroball: The New Way to Win It All,Ben Reiter,4,4.27,2018-12-05,"non-fiction, sports, baseball",0,1200
-8032112,The Big Short: Inside the Doomsday Machine,Michael Lewis,4,4.29,2016-02-09,non-fiction,0,1200
-28512671,"Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are","Seth Stephens-Davidowitz, Steven Pinker",5,3.91,2017-05-30,non-fiction,0,1200
-45025308,She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement,"Jodi Kantor, Megan Twohey",4,4.41,2019-10-01,non-fiction,0,1200
-42973186,How to Do Nothing: Resisting the Attention Economy,Jenny Odell,4,3.87,2019-09-25,non-fiction,0,1200
-20508,Kill the Messenger: How the CIA's Crack-Cocaine Controversy Destroyed Journalist Gary Webb,"Nick Schou, Charles Bowden",2,3.75,2019-03-04,non-fiction,0,1200
-36675,Seven Seconds or Less: My Season on the Bench with the Runnin' and Gunnin' Phoenix Suns,Jack McCallum,5,4.01,2014-06-02,"non-fiction, sports, basketball",0,1200
-28186015,Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy,Cathy O'Neil,2,3.87,2016-11-21,non-fiction,0,1200
-9359172,The Extra 2%: How Wall Street Strategies Took a Major League Baseball Team from Worst to First,Jonah Keri,1,3.78,2014-12-01,"non-fiction, sports, baseball",0,1200
-30334134,The Undoing Project: A Friendship That Changed Our Minds,Michael Lewis,4,3.99,2017-02-27,non-fiction,0,1200
-46136224,Uncanny Valley,Anna Wiener,3,3.77,2020-02-16,"non-fiction, bay-area",0,1200
-44000528,Range: Why Generalists Triumph in a Specialized World,David Epstein,3,4.18,2019-08-29,non-fiction,0,1200
-43457351,The Tenth Muse,Catherine Chung,4,4.05,2019-09-15,fiction,0,1200
 36288143,Brotopia: Breaking Up the Boys' Club of Silicon Valley,Emily Chang,4,4,2019-04-17,"non-fiction, bay-area",0,1200
-43886896,Beijing Payback,Daniel Nieh,3,3.39,2020-03-17,"fiction, los-angeles",0,1200
-36687335,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",Katherine Boo,5,3.98,2019-05-27,non-fiction,0,1200
 2082136,Bonk: The Curious Coupling of Science and Sex,Mary Roach,4,3.84,2016-04-08,non-fiction,0,1200
-1202,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,"Steven D. Levitt, Stephen J. Dubner",5,3.97,2015-06-28,non-fiction,0,1200
-52654714,Thinking Inside the Box: Adventures with Crosswords and the Puzzling People Who Can't Live Without Them,Adrienne Raphel,3,4.23,2020-04-16,non-fiction,0,1200
-5000024,"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,3,4.01,2020-01-15,"fiction, los-angeles",1,1184
-19635587,Dept. of Speculation,Jenny Offill,4,3.75,2020-04-21,fiction,1,1184
-15798986,Whitey: The Life of America's Most Notorious Mob Boss,"Gerard O'Neill, Dick Lehr",3,3.76,2015-10-26,"non-fiction, american-history, biographical",1,1184
+21284468,"The Monopolists: Obsession, Fury, and the Scandal Behind the World's Favorite Board Game",Mary Pilon,4,3.67,2019-02-13,non-fiction,2,1199.2021937040377
+11569862,"Kasher in the Rye: The True Tale of a White Boy from Oakland Who Became a Drug Addict, Criminal, Mental Patient, and Then Turned 16",Moshe Kasher,5,3.91,2016-02-29,"non-fiction, bay-area, biographical",5,1198.8239935665815
+36675,Seven Seconds or Less: My Season on the Bench with the Runnin' and Gunnin' Phoenix Suns,Jack McCallum,5,4.01,2014-06-02,"non-fiction, sports, basketball",4,1198.8161932246326
+43811457,"The National Team: The Inside Story of the Women Who Dreamed Big, Defied the Odds, and Changed Soccer",Caitlin Murray,4,4.52,2019-06-04,"non-fiction, sports, soccer",2,1198.5641271217237
+42973186,How to Do Nothing: Resisting the Attention Economy,Jenny Odell,4,3.87,2019-09-25,non-fiction,2,1197.9937700979112
+39507318,The Library Book,Susan Orlean,5,3.93,2018-12-31,"non-fiction, los-angeles",3,1185.4387739660467
+43457351,The Tenth Muse,Catherine Chung,4,4.05,2019-09-15,fiction,1,1185.402373648406
+28512671,"Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are","Seth Stephens-Davidowitz, Steven Pinker",5,3.91,2017-05-30,non-fiction,3,1185.3757016807044
+28186015,Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy,Cathy O'Neil,2,3.87,2016-11-21,non-fiction,2,1184.5705543593983
+19643530,"Inner City Blues (Charlotte Justice, #1)",Paula L. Woods,4,3.6,2020-03-13,"fiction, los-angeles",1,1184
+45029227,Football Hackers: The Science and Art of a Data Revolution,Christoph Biermann,3,4.33,2019-10-24,"non-fiction, sports, soccer",3,1183.9985842804545
+52654714,Thinking Inside the Box: Adventures with Crosswords and the Puzzling People Who Can't Live Without Them,Adrienne Raphel,3,4.23,2020-04-16,non-fiction,1,1183.171232706769
+42035620,Good to Go: What the Athlete in All of Us Can Learn from the Strange Science of Recovery,Christie Aschwanden,4,4.11,2020-03-23,"non-fiction, sports",4,1175.345927047727
+20706662,No Land's Man,Aasif Mandvi,5,3.59,2015-01-10,"non-fiction, biographical",6,1172.3142045193824
+39783597,"Soccernomics: Why England Loses; Why Germany, Spain, and France Win; and Why One Day Japan, Iraq, and the United States Will Become Kings of the World's Most Popular Sport","Simon Kuper, Stefan Szymanski",4,3.93,2020-03-19,"non-fiction, sports, soccer",4,1171.5499515932452
+5000024,"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,3,4.01,2020-01-15,"fiction, los-angeles",2,1170.7851265853749
+280411,Too Close to Call: The Thirty-Six-Day Battle to Decide the 2000 Election,Jeffrey Toobin,5,3.95,2018-10-15,"non-fiction, american-history",4,1168.9744856110694
+40225612,"The Club: How the English Premier League Became the Wildest, Richest, Most Disruptive Force in Sports","Joshua Robinson, Jonathan Clegg",4,4.33,2018-12-24,"non-fiction, sports, soccer",2,1168.736306793522
+43886896,Beijing Payback,Daniel Nieh,3,3.39,2020-03-17,"fiction, los-angeles",2,1168.0936824604873
+20508,Kill the Messenger: How the CIA's Crack-Cocaine Controversy Destroyed Journalist Gary Webb,"Nick Schou, Charles Bowden",2,3.75,2019-03-04,non-fiction,3,1167.4926864724316
+44000528,Range: Why Generalists Triumph in a Specialized World,David Epstein,3,4.18,2019-08-29,non-fiction,2,1167.2679598905484
+37822468,Big Game: The NFL in Dangerous Times,Mark Leibovich,3,3.64,2018-11-10,"non-fiction, sports",7,1159.548638793392
+8032112,The Big Short: Inside the Doomsday Machine,Michael Lewis,4,4.29,2016-02-09,non-fiction,5,1159.4673539567257
+879746,"Amateur City (Kate Delafield, #1)",Katherine V. Forrest,3,3.75,2020-03-07,"fiction, los-angeles",3,1155.4695933928708
+37938327,University of Nike: How Corporate Cash Bought American Higher Education,Joshua Hunt,3,3.82,2019-01-15,non-fiction,3,1153.4387739660467
+15798986,Whitey: The Life of America's Most Notorious Mob Boss,"Gerard O'Neill, Dick Lehr",3,3.76,2015-10-26,"non-fiction, american-history, biographical",5,1152.9666584615745
+22749723,Who Gets What — and Why: The New Economics of Matchmaking and Market Design,Alvin E. Roth,2,3.86,2019-07-30,non-fiction,3,1151.4592835212227
+37766354,Astroball: The New Way to Win It All,Ben Reiter,4,4.27,2018-12-05,"non-fiction, sports, baseball",6,1146.0371336014168
+9359172,The Extra 2%: How Wall Street Strategies Took a Major League Baseball Team from Worst to First,Jonah Keri,1,3.78,2014-12-01,"non-fiction, sports, baseball",4,1135.0963572227597
+38331257,Things That Make White People Uncomfortable,"Michael Bennett, Dave Zirin",4,4.2,2018-11-28,"non-fiction, biographical",5,1129.6171941251052
+19635587,Dept. of Speculation,Jenny Offill,4,3.75,2020-04-21,fiction,5,1129.1432883703892
+21412175,The Best Team Money Can Buy,Molly Knight,2,3.98,2015-07-23,"non-fiction, los-angeles, sports, baseball",7,1101.4986275136148
